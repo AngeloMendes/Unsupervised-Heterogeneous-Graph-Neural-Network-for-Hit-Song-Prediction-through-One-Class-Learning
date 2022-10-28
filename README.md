@@ -14,6 +14,5 @@ Although the concept of success is subjective, it can be related to the populari
 ![Results](/images/results.png)
 
 # File Organization
--
--
--
+- codes: all source codes for pre-processsing the dataset, train the GNN, classify with OCSVM, and result analysis
+- results: all results considering all parameters
