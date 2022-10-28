@@ -1,7 +1,7 @@
 # Unsupervised Heterogeneous Graph Neural Network for Hit Song Prediction through One Class Learning
 
-- Angelo Mendes (ICMC/USP) | angelo.mendes@usp.br
-- Marcos Gôlo (ICMC/USP) | marcosgolo@usp.br (corresponding author)
+- Angelo Mendes (ICMC/USP) | angelo.mendes@usp.br (corresponding author)
+- Marcos Gôlo (ICMC/USP) | marcosgolo@usp.br 
 - Ricardo Marcacini (ICMC/USP) | ricardo.marcacini@icmc.usp.br
 
 # Abstract
